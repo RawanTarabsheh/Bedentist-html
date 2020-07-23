@@ -1,0 +1,23 @@
+body
+{
+	font-family: "Alegreya Sans", Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	color: #ffff;
+	margin: 0;
+	line-height: 1.2;
+}
+.fontcolor
+{
+	font-size: 20px;
+	color: #fff;
+	opacity: 0.3;
+}
+.fontcolor:hover
+{
+	opacity: 1;
+}
+.backg
+{
+	background-color: #0095e5;
+
+}
